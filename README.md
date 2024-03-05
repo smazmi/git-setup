@@ -6,8 +6,8 @@ This Bash script automates the setup process for Git and SSH on a Debian-based s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/setup-script.git
-   cd setup-script
+   git clone https://github.com/smazmi/git-setup
+   cd git-setup
    ```
 2. Run the script:
    ```bash
